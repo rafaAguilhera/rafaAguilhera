@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://github.com/rafaAguilhera/rafaAguilhera/main/assets/header_gitHub.gif" alt="hello">
+  <img src="https://github.com/rafaAguilhera/rafaAguilhera/assets/header_gitHub.gif" alt="hello">
+  
+  rafaAguilhera/assets/header_gitHub.gif
 </p>
  
 <div align="center">

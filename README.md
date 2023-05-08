@@ -18,20 +18,19 @@ As a data analyst with a passion for uncovering insights and patterns, I am cons
 - 👯 I’m looking to collaborate on **data analysis projects**
 - 📄 Know about my experiences [https://www.linkedin.com/in/aguilhera/]( https://www.linkedin.com/in/aguilhera/)
 
-
-
-  
+##
+🛠️ **Some Languages and Tools I use**
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa2" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
   <img align="center" alt="Rafa1" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain.svg">
   <img align="center" alt="Rafa1" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="Rafa1" height="30" width="40" src="https://pandas.pydata.org/static/img/pandas.svg">
-          
-  
+         
+##
   
 </div>
-  <div align="center">
+  <div align="left">
   <a href="https://github.com/rafaAguilhera">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=rafaAguilhera&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaAguilhera&layout=compact&langs_count=7&theme=dracula"/>

@@ -2,7 +2,6 @@
   <img src="https://github.com/rafaAguilhera/rafaAguilhera/raw/main/assets/gif.gif" alt="hello">
 </p>
  
- ## Olá! Eu sou a Rafaela Aguilhera
 <div align="center">
   <a href="https://github.com/rafaAguilhera">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=rafaAguilhera&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

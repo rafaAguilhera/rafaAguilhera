@@ -1,3 +1,7 @@
+ <p align="center">
+  <img src="https://github.com/rafaAguilhera/rafaAguilhera/raw/main/assets/gif.gif" alt="hello">
+</p>
+ 
  ## Olá! Eu sou a Rafaela Aguilhera
 <div align="center">
   <a href="https://github.com/rafaAguilhera">
